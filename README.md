@@ -35,7 +35,13 @@ The review highlights several open challenges in agentic AI:
 - limited evidence for world-model approaches at real-world scale
 
 
+
 ## Research Scope
 
 This review synthesizes literature and developments available up to **February 2026** to provide a structured theoretical background for understanding modern agentic AI systems.
+
+## Paper
+
+- [Read the paper on Overleaf](https://www.overleaf.com/2971936938kgskqnxpgzyr#ff3763)
+- [Download the PDF](Theoretical_Background_of_Agentic_Architectures.pdf)
 
