@@ -38,7 +38,7 @@ The review highlights several open challenges in agentic AI:
 
 ## Research Scope
 
-This review synthesizes literature and developments available up to **February 2026** to provide a structured theoretical background for understanding modern agentic AI systems.
+This review synthesizes literature and developments available up to **March 2026** to provide a structured theoretical background for understanding modern agentic AI systems.
 
 ## Paper
 
