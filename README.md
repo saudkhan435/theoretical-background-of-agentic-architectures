@@ -1,6 +1,6 @@
 # Theoretical Background of Agentic Architectures
 
-A literature review on the theoretical foundations and evolution of **agentic AI architectures**, covering research available up to **February 2026**.
+A literature review on the theoretical foundations and evolution of **agentic AI architectures**, covering research available up to **March 2026**.
 
 The paper examines how AI systems evolved from passive prompt-response models into goal-directed agents capable of planning, using tools, maintaining memory, interacting with environments, and coordinating with other agents.
 
